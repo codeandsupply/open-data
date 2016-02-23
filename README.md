@@ -17,6 +17,7 @@ While not officially endorsed or affiliated with the Western Pennsylvania Region
 * Laundry, Course, and Computer Lab data for the University of Pittsburgh: https://github.com/RitwikGupta/PittAPI
 * Course data for Carnegie Mellon University: https://scottylabs.org/course-api/
 * Access AndrewID information at CMU: https://github.com/ScottyLabs/directory-api
+* The collection data of the Carnegie Museum of Art in Pittsburgh, Pennsylvania: https://github.com/cmoa/collection
 
 ## Requested Sources
 
